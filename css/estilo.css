@@ -1,0 +1,36 @@
+header{
+    width: 100%;
+    height: 50px;
+    background-color: #c394f8;
+    box-shadow: 1px 1px 50px #b28fd3;
+    position: fixed;
+}
+
+#menu{
+    width: 750px;
+    padding-top: 5px;
+    margin: auto;
+}
+
+#menu ul a{
+    color: #000;
+    text-decoration: none;
+    font: 16px;
+    padding: 13px 20px 19px 20px;
+}
+
+/*----------EFECTO HOVER--------*/
+#menu ul a:hover{
+    color: #f2f2f2;
+    background: #4f126c;
+}
+
+footer{
+    width: 100%;
+    height: 30px;
+    padding: 50px;
+    margin: auto;
+    background: #c394f8;
+    font-size: .5em;
+    color: #8b0000;
+} 
